@@ -43,22 +43,12 @@ I build **end-to-end AI products**, from **LLM** architectures to scalable **Ful
 
 ## Tech Stack (what I actually use)
 
-**Frontend**
-- React, Next.js, Svelte
-- TypeScript, Tailwind, React Native
+**Frontend**: React, Next.js, Svelte, TypeScript, Tailwind, React Native  
 
-**AI & Data**
-- LLMs (GPT, LLaMA), RAG, LangChain
-- Fine-tuning (LoRA), embeddings, token optimization
-- Hugging Face, FAISS, Qdrant
-- Data scraping & cleaning
+**AI & Data**: LLMs (GPT, LLaMA), RAG, LangChain, LoRA fine-tuning, embeddings, token optimization, Hugging Face, FAISS, Qdrant, data scraping & cleaning  
 
-**Backend**
-- Python, Node.js
-- REST APIs, automation (n8n)
-- PostgreSQL, MongoDB, Supabase
+**Backend**: Python, Node.js, REST APIs, n8n automation, PostgreSQL, MongoDB, Supabase  
 
-**Dev & Ops**
-- Docker, Git, SQL
-- Performance optimization, production debugging
+**Dev & Ops**: Docker, Git, SQL, performance optimization, production debugging
+
 
