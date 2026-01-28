@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hassene Afif
 
-<!--
-**hasseneafif/hasseneafif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & AI Software Engineer**  
+Building production-grade AI systems, automation, and scalable SaaS products.
 
-Here are some ideas to get you started:
+📍 Open to EU on-site / hybrid roles (visa sponsorship OK)  
+🌍 Worked with European teams  
+🔗 https://hasseneafif.com | https://linkedin.com/in/hasseneafif | hasseneafif@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I do
+
+I’m a software engineer with **4+ years of experience** designing and shipping **full-stack and AI-powered products** used in real business contexts.
+
+I specialize in:
+- End-to-end **AI product development** (LLMs → backend → frontend)
+- **LLM systems**: RAG, fine-tuning, agents, automation
+- **High-performance SaaS** with clean UX and scalable architecture
+- Turning vague ideas into **production-ready platforms**
+
+I don’t build demos — I build systems that run.
+
+---
+
+## Selected Projects (Production)
+
+- **[ailex.pro](https://www.ailex.pro)**  
+  EU AI legal assistant referencing real law sections  
+  *RAG, FAISS/Qdrant, LangChain, LLaMA, MongoDB, React*
+
+- **[vestr.pro](https://www.vestr.pro)**  
+  AI stock prediction platform using fine-tuned models  
+  *Data scraping, LLaMA, Hugging Face, Node.js, Next.js*
+
+- **[expensy.pro](https://www.expensy.pro)**  
+  Real-time analytics & expense management platform  
+  *Svelte, Convex, data analytics*
+
+- **[hasseneafif.com](https://hasseneafif.com)**  
+  Performance-focused portfolio with an embedded AI agent  
+  *Next.js, LLMs, Hugging Face*
+
+- **[@hasseneafif/ai-performance-check](https://www.npmjs.com/package/@hasseneafif/ai-performance-check)**  
+  NPM performance monitoring package  
+  *500+ developers*
+
+---
+
+## Tech Stack (what I actually use)
+
+**Frontend**
+- React, Next.js, Svelte
+- TypeScript, Tailwind, React Native
+
+**AI & Data**
+- LLMs (GPT, LLaMA), RAG, LangChain
+- Fine-tuning (LoRA), embeddings, token optimization
+- Hugging Face, FAISS, Qdrant
+- Data scraping & cleaning
+
+**Backend**
+- Python, Node.js
+- REST APIs, automation (n8n)
+- PostgreSQL, MongoDB, Supabase
+
+**Dev & Ops**
+- Docker, Git, SQL
+- Performance optimization, production debugging
+
