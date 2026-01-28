@@ -20,23 +20,35 @@ I build **end-to-end AI products**, from **LLM** architectures to scalable **Ful
 ## Selected Projects (Production)
 
 - **[ailex.pro](https://www.ailex.pro)**  
-  EU AI legal assistant referencing real law sections  
-  *RAG, FAISS/Qdrant, LangChain, LLaMA, MongoDB, React*
+  EU AI legal platform referencing real law sections  
+  *Full-stack platform, React, Node.js, MongoDB, RAG, embeddings, LLMs*
 
 - **[vestr.pro](https://www.vestr.pro)**  
-  AI stock prediction platform using fine-tuned models  
-  *Data scraping, LLaMA, Hugging Face, Node.js, Next.js*
+  Stock prediction platform using fine-tuned models  
+  *Next.js, Node.js, React, data pipelines, ML/LLMs*
 
 - **[expensy.pro](https://www.expensy.pro)**  
   Real-time analytics & expense management platform  
-  *Svelte, Convex, data analytics*
+  *Svelte, Convex, real-time data, analytics*
+
+- **[weefizz.com](https://www.weefizz.com)**  
+  AI-assisted sizing platform reducing product return rates  
+  *React, backend APIs, applied ML, LLM integration*
+
+- **[delib.pro](https://www.delib.pro)**  
+  Large-scale data generation & scraping platform (−70% search time)  
+  *Next.js, Python, data pipelines, automation*
+
+- **[handy-abo.com](https://www.handy-abo.com)**  
+  Subscription comparison platform with 20+ mobile operators  
+  *React, APIs, performance-focused frontend*
 
 - **[hasseneafif.com](https://hasseneafif.com)**  
-  Performance-focused portfolio with an embedded AI agent  
-  *Next.js, LLMs, Hugging Face*
+  Performance-focused portfolio platform with an embedded AI assistant  
+  *Next.js, full-stack architecture, LLM integration*
 
 - **[@hasseneafif/ai-performance-check](https://www.npmjs.com/package/@hasseneafif/ai-performance-check)**  
-  NPM performance monitoring package  
+  Performance monitoring NPM package  
   *500+ developers*
 
 ---
