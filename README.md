@@ -13,13 +13,7 @@ Building production-grade AI systems, automation, and scalable SaaS products.
 
 I’m a software engineer with **4+ years of experience** designing and shipping **full-stack and AI-powered products** used in real business contexts.
 
-I specialize in:
-- End-to-end **AI product development** (LLMs → backend → frontend)
-- **LLM systems**: RAG, fine-tuning, agents, automation
-- **High-performance SaaS** with clean UX and scalable architecture
-- Turning vague ideas into **production-ready platforms**
-
-I don’t build demos — I build systems that run.
+I build **end-to-end AI products**, from **LLM** architectures to scalable **Full-Stack** platforms. I don’t ship demos — I ship production systems.
 
 ---
 
