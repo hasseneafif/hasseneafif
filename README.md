@@ -2,18 +2,8 @@
 
 **Full-Stack & AI Software Engineer**  
 Building production-grade Full-Stack & AI systems.
-
-📍 Open to EU on-site / hybrid roles (visa sponsorship OK)  
-🌍 Experienced with European teams  
+ 
 🔗 https://hasseneafif.com | https://linkedin.com/in/hasseneafif | hasseneafif@gmail.com 
-
----
-
-## What I do
-
-I’m a software engineer with **4+ years of experience** designing and shipping **full-stack and AI-powered products** used in real business contexts.
-
-I build **end-to-end AI products**, from **LLM** architectures to scalable **Full-Stack** platforms. I don’t ship demos — I ship production systems.
 
 ---
 
