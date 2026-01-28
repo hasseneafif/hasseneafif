@@ -19,37 +19,13 @@ I build **end-to-end AI products**, from **LLM** architectures to scalable **Ful
 
 ## Selected Projects (Production)
 
-- **[ailex.pro](https://www.ailex.pro)**  
-  EU AI legal platform referencing real law sections  
-  *Full-stack platform, React, Node.js, MongoDB, RAG, embeddings, LLMs*
+| Project | Project |
+|--------|--------|
+| **[ailex.pro](https://www.ailex.pro)**<br/>EU AI legal platform referencing real law sections<br/><sub>React · Node.js · MongoDB · RAG · LLMs</sub> | **[vestr.pro](https://www.vestr.pro)**<br/>Stock prediction platform using fine-tuned models<br/><sub>Next.js · Node.js · React · Data pipelines · ML</sub> |
+| **[expensy.pro](https://www.expensy.pro)**<br/>Real-time analytics & expense management platform<br/><sub>Svelte · Convex · Real-time data</sub> | **[weefizz.com](https://www.weefizz.com)**<br/>AI-assisted sizing platform reducing return rates<br/><sub>React · Backend APIs · Applied AI</sub> |
+| **[delib.pro](https://www.delib.pro)**<br/>Large-scale data generation & scraping platform (−70% search time)<br/><sub>Next.js · Python · Automation</sub> | **[handy-abo.com](https://www.handy-abo.com)**<br/>Subscription comparison platform (20+ operators)<br/><sub>React · APIs · Performance</sub> |
+| **[hasseneafif.com](https://hasseneafif.com)**<br/>Portfolio platform with embedded AI assistant<br/><sub>Next.js · Full-stack · LLMs</sub> | **[@ai-performance-check](https://www.npmjs.com/package/@hasseneafif/ai-performance-check)**<br/>NPM performance monitoring package (500+ devs)<br/><sub>Node.js · Tooling</sub> |
 
-- **[vestr.pro](https://www.vestr.pro)**  
-  Stock prediction platform using fine-tuned models  
-  *Next.js, Node.js, React, data pipelines, ML/LLMs*
-
-- **[expensy.pro](https://www.expensy.pro)**  
-  Real-time analytics & expense management platform  
-  *Svelte, Convex, real-time data, analytics*
-
-- **[weefizz.com](https://www.weefizz.com)**  
-  AI-assisted sizing platform reducing product return rates  
-  *React, backend APIs, applied ML, LLM integration*
-
-- **[delib.pro](https://www.delib.pro)**  
-  Large-scale data generation & scraping platform (−70% search time)  
-  *Next.js, Python, data pipelines, automation*
-
-- **[handy-abo.com](https://www.handy-abo.com)**  
-  Subscription comparison platform with 20+ mobile operators  
-  *React, APIs, performance-focused frontend*
-
-- **[hasseneafif.com](https://hasseneafif.com)**  
-  Performance-focused portfolio platform with an embedded AI assistant  
-  *Next.js, full-stack architecture, LLM integration*
-
-- **[@hasseneafif/ai-performance-check](https://www.npmjs.com/package/@hasseneafif/ai-performance-check)**  
-  Performance monitoring NPM package  
-  *500+ developers*
 
 ---
 
