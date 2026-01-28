@@ -1,10 +1,10 @@
 # Hassene Afif
 
 **Full-Stack & AI Software Engineer**  
-Building production-grade AI systems, automation, and scalable SaaS products.
+Building production-grade Full-Stack & AI systems.
 
 📍 Open to EU on-site / hybrid roles (visa sponsorship OK)  
-🌍 Worked with European teams  
+🌍 Experienced with European teams  
 🔗 https://hasseneafif.com | https://linkedin.com/in/hasseneafif | hasseneafif@gmail.com 
 
 ---
